@@ -1,1 +1,1 @@
-# C-C-Number-Guessing-Game
+# C/C++ -Number-Guessing-Game
